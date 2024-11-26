@@ -2,8 +2,6 @@
 layout: post
 title: Process? Thread란?
 ---
-# Process? Thread란? 
-
 ## **⚙️ 프로세스의 개념**
 여러분의 컴퓨터에서 실행할 수 있는 파일
 윈도우의 경우 이름 뒤쪽에 .exe 붙어있는
